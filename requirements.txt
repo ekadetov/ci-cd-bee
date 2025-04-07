@@ -1,0 +1,4 @@
+click
+python-gitlab
+google-cloud-aiplatform
+python-dotenv
